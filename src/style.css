@@ -1,9 +1,28 @@
 body {
     background: #f8e8a6;
-    margin: 8px;
+    margin: 25px;
     
 }
 
 h2 {
     text-align: center;
+}
+
+a {
+    color: green;
+}
+
+.image {
+    width: 600px;
+    border-radius: 10px;
+    display: block;
+    margin: 30px auto;
+}
+
+.contact-paragraph {
+    text-align: center;
+}
+
+.contact-paragraph a {
+    color: blue;
 }
